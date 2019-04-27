@@ -1,0 +1,16 @@
+{
+  "name": "squareEveryDigit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "squarEveryDigit.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
